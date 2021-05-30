@@ -1,0 +1,100 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #26BBA5;
+}
+
+.word {
+    text-align: center;
+}
+
+.container {
+    float: left;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 10.5%;
+    padding: 5px;
+    height: 370px;
+    border-radius: 0px 15px 15px 0px;
+    box-shadow: 500px 500px 500px #2F8C85;
+    background-color: white;
+}
+
+.name,
+.last {
+    width: 300px;
+    height: 21px;
+    padding: 3px;
+    margin: 5px;
+}
+
+.first {
+    width: 500px;
+    height: 21px;
+    margin: 5px;
+    padding: 3px;
+}
+
+.second {
+    width: 500px;
+    height: 21px;
+    margin: 5px;
+    padding: 3px;
+}
+
+.third {
+    width: 500px;
+    height: 21px;
+    margin: 5px;
+    padding: 3px;
+}
+
+.fourth {
+    width: 500px;
+    height: 21px;
+    margin: 5px;
+    padding: 3px;
+}
+
+select {
+    width: 150px;
+    height: 30px;
+    margin: 3px;
+    padding: 5px;
+}
+
+.number {
+    width: 80px;
+    height: 21px;
+    margin: 5px;
+    padding: 3px;
+}
+
+button {
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #2F4F4F;
+    color: white;
+}
+
+a {
+    color: white;
+    align-items: center;
+}
+
+img {
+    float: left;
+    position: absolute;
+    margin-left: 17.5%;
+    margin-top: 10%;
+    padding: 6px;
+    height: 380px;
+    border-radius: 25px 0px 0px 25px;
+    opacity: 1px;
+}
